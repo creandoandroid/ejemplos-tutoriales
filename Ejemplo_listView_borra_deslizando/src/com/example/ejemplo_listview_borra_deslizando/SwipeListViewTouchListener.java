@@ -1,4 +1,4 @@
-package com.example.ejemplo_listview_borra_deslizando;
+package com.example.myapplication;
 
 import java.util.ArrayList;
 import java.util.Collections;
