@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Auto_Login</string>
+    <string name="hello">Welcome!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="close">Close Session</string>
+
+</resources>
